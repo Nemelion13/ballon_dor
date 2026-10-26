@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Cérémonie du Ballon d'Or 2026</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Cérémonie du Ballon d'Or</h1>
+        <button id="start-btn">Révéler le Classement</button>
+        
+        <div id="ranking-container">
+            <!-- La boucle Python/Jinja injecte les joueurs -->
+            {% for player in players %}
+            <div class="player-card hidden" data-rank="{{ player.rank }}">
+                <!-- Rang à gauche -->
+                <div class="rank">#{{ player.rank }}</div>
+                
+                <!-- Image au dessus du nom -->
+                <div class="content">
+                    <div class="photo-container">
+                        <img src="{{ player.image }}" alt="{{ player.name }}" class="player-photo spinning">
+                    </div>
+                    <div class="info">
+                        <h2>{{ player.name }}</h2>
+                        <p>{{ player.team }} <br> Score : {{ player.score }} pts</p>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

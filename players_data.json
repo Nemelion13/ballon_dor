@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Harry Kane",
+        "team": "Bayern Munich",
+        "image": "https://img.a.transfermarkt.technology/portrait/header/132098-1700204739.jpg",
+        "stats": { "buts": 73, "passes_decisives": 8, "coupe_du_monde": 0, "ligue_des_champions": 0, "championnat": 1, "homme_du_match": 12, "carton_jaune": 2, "carton_rouge": 0 }
+    },
+    {
+        "name": "Lamine Yamal",
+        "team": "FC Barcelone",
+        "image": "https://img.a.transfermarkt.technology/portrait/header/937958-1694605929.jpg",
+        "stats": { "buts": 25, "passes_decisives": 20, "coupe_du_monde": 1, "ligue_des_champions": 0, "championnat": 0, "homme_du_match": 1, "carton_jaune": 3, "carton_rouge": 0 }
+    },
+    {
+        "name": "Kylian Mbappé",
+        "team": "Real Madrid",
+        "image": "https://img.a.transfermarkt.technology/portrait/header/342229-1682683695.jpg",
+        "stats": { "buts": 59, "passes_decisives": 13, "coupe_du_monde": 0, "ligue_des_champions": 1, "championnat": 1, "homme_du_match": 10, "carton_jaune": 4, "carton_rouge": 0 }
+    },
+    {
+        "name": "Rodri",
+        "team": "Manchester City",
+        "image": "https://img.a.transfermarkt.technology/portrait/header/357565-1682587890.jpg",
+        "stats": { "buts": 10, "passes_decisives": 15, "coupe_du_monde": 1, "ligue_des_champions": 0, "championnat": 1, "homme_du_match": 7, "carton_jaune": 6, "carton_rouge": 0 }
+    },
+    {
+        "name": "Lionel Messi",
+        "team": "Inter Miami",
+        "image": "https://img.a.transfermarkt.technology/portrait/header/28003-1682683695.jpg",
+        "stats": { "buts": 45, "passes_decisives": 30, "coupe_du_monde": 0, "ligue_des_champions": 0, "championnat": 1, "homme_du_match": 8, "carton_jaune": 1, "carton_rouge": 0 }
+    },
+    {
+        "name": "Ousmane Dembélé",
+        "team": "Paris Saint-Germain",
+        "image": "https://img.a.transfermarkt.technology/portrait/header/215569-1682683695.jpg",
+        "stats": { "buts": 20, "passes_decisives": 18, "coupe_du_monde": 0, "ligue_des_champions": 1, "championnat": 1, "homme_du_match": 5, "carton_jaune": 2, "carton_rouge": 1 }
+    }
+]
