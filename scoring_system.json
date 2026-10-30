@@ -9,9 +9,9 @@
         "championnat": 15,
         "homme_du_match": 5,
         "carton_jaune": -2,
-        "carton_rouge": -10,
+        "carton_rouge": -7,
         "cdm_best":60,
         "ldc_best": 40,
-        "champ_best":20
+        "champ_best":25
     }
 }

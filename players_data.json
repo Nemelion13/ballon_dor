@@ -20,8 +20,8 @@
         "name": "Kylian Mbappé",
         "team": "Real Madrid",
         "image": "https://img.a.transfermarkt.technology/portrait/header/342229-1682683695.jpg",
-        "stats": { "buts": 58, "passes_decisives": 13, "coupe_du_monde": 0, "ligue_des_champions": 1, 
-                    "championnat": 1, "homme_du_match": 19, "carton_jaune": 8, 
+        "stats": { "buts": 58, "passes_decisives": 13, "coupe_du_monde": 0, "ligue_des_champions": 0, 
+                    "championnat": 0, "homme_du_match": 19, "carton_jaune": 8, 
                     "carton_rouge": 0 
                 }
     },
