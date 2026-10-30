@@ -2,37 +2,89 @@
     {
         "name": "Harry Kane",
         "team": "Bayern Munich",
-        "image": "https://img.a.transfermarkt.technology/portrait/header/132098-1700204739.jpg",
-        "stats": { "buts": 73, "passes_decisives": 8, "coupe_du_monde": 0, "ligue_des_champions": 0, "championnat": 1, "homme_du_match": 12, "carton_jaune": 2, "carton_rouge": 0 }
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Harry_Kane_England_v_Ghana_23_June_2026-024_%28cropped%29.jpg/330px-Harry_Kane_England_v_Ghana_23_June_2026-024_%28cropped%29.jpg",
+        "stats": { "buts": 73, "passes_decisives": 7, "coupe_du_monde": 0, 
+                    "ligue_des_champions": 0, "championnat": 1, "homme_du_match": 14, 
+                    "carton_jaune": 2, "carton_rouge": 0 }
     },
     {
         "name": "Lamine Yamal",
         "team": "FC Barcelone",
-        "image": "https://img.a.transfermarkt.technology/portrait/header/937958-1694605929.jpg",
-        "stats": { "buts": 25, "passes_decisives": 20, "coupe_du_monde": 1, "ligue_des_champions": 0, "championnat": 0, "homme_du_match": 1, "carton_jaune": 3, "carton_rouge": 0 }
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Lamine_Yamal_France_v_Spain_7.24.26-142.jpg/330px-Lamine_Yamal_France_v_Spain_7.24.26-142.jpg",
+        "stats": { "buts": 25, "passes_decisives": 20, "coupe_du_monde": 1, 
+                    "ligue_des_champions": 0, "championnat": 1,"champ_best":1,
+                    "homme_du_match": 17, "carton_jaune": 5, "carton_rouge": 0 
+                 }
     },
     {
         "name": "Kylian Mbappé",
         "team": "Real Madrid",
         "image": "https://img.a.transfermarkt.technology/portrait/header/342229-1682683695.jpg",
-        "stats": { "buts": 59, "passes_decisives": 13, "coupe_du_monde": 0, "ligue_des_champions": 1, "championnat": 1, "homme_du_match": 10, "carton_jaune": 4, "carton_rouge": 0 }
+        "stats": { "buts": 58, "passes_decisives": 13, "coupe_du_monde": 0, "ligue_des_champions": 1, 
+                    "championnat": 1, "homme_du_match": 19, "carton_jaune": 8, 
+                    "carton_rouge": 0 
+                }
     },
     {
         "name": "Rodri",
         "team": "Manchester City",
         "image": "https://img.a.transfermarkt.technology/portrait/header/357565-1682587890.jpg",
-        "stats": { "buts": 10, "passes_decisives": 15, "coupe_du_monde": 1, "ligue_des_champions": 0, "championnat": 1, "homme_du_match": 7, "carton_jaune": 6, "carton_rouge": 0 }
+        "stats": { "buts": 1, "passes_decisives": 0, "coupe_du_monde": 1, 
+                "ligue_des_champions": 0, "championnat": 0,"cdm_best":1, "homme_du_match": 2, 
+                "carton_jaune": 7, "carton_rouge": 1 
+                }
     },
     {
         "name": "Lionel Messi",
         "team": "Inter Miami",
-        "image": "https://img.a.transfermarkt.technology/portrait/header/28003-1682683695.jpg",
-        "stats": { "buts": 45, "passes_decisives": 30, "coupe_du_monde": 0, "ligue_des_champions": 0, "championnat": 1, "homme_du_match": 8, "carton_jaune": 1, "carton_rouge": 0 }
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg/330px-Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg",
+        "stats": { "buts non europe": 45, "passes_decisives_ne": 32, "coupe_du_monde": 0, 
+                    "ligue_des_champions": 0, "championnat": 1, "homme_du_match": 30, 
+                    "carton_jaune": 4, "carton_rouge": 0 
+                }
     },
     {
         "name": "Ousmane Dembélé",
         "team": "Paris Saint-Germain",
-        "image": "https://img.a.transfermarkt.technology/portrait/header/215569-1682683695.jpg",
-        "stats": { "buts": 20, "passes_decisives": 18, "coupe_du_monde": 0, "ligue_des_champions": 1, "championnat": 1, "homme_du_match": 5, "carton_jaune": 2, "carton_rouge": 1 }
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Ousmane_Dembele_France_v_Senegal_16_June_2026-341_%28cropped%29_2.jpg/330px-Ousmane_Dembele_France_v_Senegal_16_June_2026-341_%28cropped%29_2.jpg",
+        "stats": { "buts": 26, "passes_decisives": 13, "coupe_du_monde": 0, 
+                    "ligue_des_champions": 1, "championnat": 1, "champ_best":1, "homme_du_match": 11, 
+                    "carton_jaune": 1, "carton_rouge": 0 
+                }
+    },
+    {
+        "name": "Fabian Ruiz",
+        "team": "Paris Saint-Germain",
+        "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Fabian_Ruiz_France_v_Spain_7.24.26-110.jpg/330px-Fabian_Ruiz_France_v_Spain_7.24.26-110.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "stats": {"buts": 3, "passes_decisives": 9, "coupe_du_monde": 1, 
+                    "ligue_des_champions": 1, "championnat": 1, "homme_du_match": 2, 
+                    "carton_jaune": 6, "carton_rouge": 0 
+                }
+    },
+    {
+        "name": "Kvicha Kvaratshkelia",
+        "team": "Paris Saint-Germain",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCF5TyzfUoGumXK4MT4RQSW4KrD6b18TxOC1JH194acoCxPxI4RfANbaZ5gc1B-c3g2_aiYnfR2TODBynT8uJuMeKETSgUZHIkdSssQYUH&s=10",
+        "stats": {"buts": 24, "passes_decisives": 12, "coupe_du_monde": 0, 
+                    "ligue_des_champions": 1, "ldc_best":1, "championnat": 1, "homme_du_match": 11, 
+                    "carton_jaune": 4, "carton_rouge": 0} 
+    },
+    {
+        "name": "Michael Olise",
+        "team": "Bayern Munich",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjtyag1D_3VooSvV-CXP0lV669S8fS-_IQsS5dRREkQbygoGoiB8Fc&usqp=CAE&s",
+        "stats":{"buts": 27, "passes_decisives": 36, "coupe_du_monde": 0, "ligue_des_champions": 0, 
+                    "championnat": 1, "champ_best": 1, "homme_du_match": 17, "carton_jaune": 13, 
+                    "carton_rouge": 0
+                } 
+    },
+    {
+        "name": "Erling Haaland",
+        "team": "Manchester City",
+        "image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Erling_Haaland_France_v_Norway_26_June_26-008.jpg/330px-Erling_Haaland_France_v_Norway_26_June_26-008.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "stats":{"buts": 54, "passes_decisives": 10, "coupe_du_monde": 0, "ligue_des_champions": 0, 
+                    "championnat": 0, "homme_du_match": 16, "carton_jaune": 3, 
+                    "carton_rouge": 0
+                } 
     }
 ]

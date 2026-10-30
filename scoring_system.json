@@ -1,12 +1,17 @@
 {
     "weights": {
         "buts": 2,
+        "buts non europe": 1,
         "passes_decisives": 1.5,
+        "passes_decisives_ne": 0.75,
         "coupe_du_monde": 50,
         "ligue_des_champions": 30,
         "championnat": 15,
         "homme_du_match": 5,
         "carton_jaune": -2,
-        "carton_rouge": -10
+        "carton_rouge": -10,
+        "cdm_best":60,
+        "ldc_best": 40,
+        "champ_best":20
     }
 }

@@ -2,6 +2,7 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
+    <link rel="icon" href="{{url_for('static',filename='favicon.ico')}}">
     <title>Cérémonie du Ballon d'Or 2026</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
@@ -9,7 +10,9 @@
     <div class="container">
         <h1>Cérémonie du Ballon d'Or</h1>
         <button id="start-btn">Révéler le Classement</button>
-        
+        <a> <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}"></a>
+
+
         <div id="ranking-container">
             <!-- La boucle Python/Jinja injecte les joueurs -->
             {% for player in players %}
@@ -29,6 +32,7 @@
                 </div>
             </div>
             {% endfor %}
+            <a href="https://www.flaticon.com/fr/icones-gratuites/ballon-dor" title="ballon d'or icônes">Ballon d'or icônes créées par Magnific - Flaticon</a>
         </div>
     </div>
     <script src="{{ url_for('static', filename='script.js') }}"></script>
